@@ -1,5 +1,5 @@
 {
-    "name": "your-name-here/ExtendedPaginator",
+    "name": "irongomme/extended-paginator",
     "description": "ExtendedPaginator plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {
